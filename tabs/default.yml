@@ -9,14 +9,14 @@
   overview: hostile-minimal
   bracket: brackets-all
 
+- name: gang
+  color: FFAA66CC
+  overview: extra-small_gang-dock
+  bracket: brackets-all
+
 - name: drones
   color: FF99CC00
   overview: hostile-drones
-  bracket: brackets-all
-
-- name: gang
-  color: FFAA66CC
-  overview: extra-small_gang-minimal
   bracket: brackets-all
 
 - name: gtfo

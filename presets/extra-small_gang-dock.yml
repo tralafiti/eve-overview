@@ -1,0 +1,11 @@
+---
+name: small gang (dock)
+symbol: ✪ extra
+level: 1
+groups:
+  - common-pvp
+  - _ship
+  - dockable
+  - rats
+states:
+  - all

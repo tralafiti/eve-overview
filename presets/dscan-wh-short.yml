@@ -3,9 +3,10 @@ name: wh ✛
 symbol: ✥ dscan
 level: 1
 groups:
-  - common-pvp
+  - common-minimal
   - _ship
   - _celestial-force_field
+  - _structure-citadel
   - _celestial-wreck
   - _drone
   - _deployable

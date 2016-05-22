@@ -5,6 +5,7 @@ level: 0
 groups:
   - common-minimal
   - gates
-  - _station
+  - dockable
+  - _starbase-control_tower
 states:
   - all
