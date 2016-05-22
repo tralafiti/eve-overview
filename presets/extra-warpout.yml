@@ -5,6 +5,8 @@ level: 1
 groups:
   - common-minimal
   - _celestial-planet
+  - _celestial-moon
+  - _celestial-asteroid_belt
   - _orbitals-orbital_infrastructure
 states:
   - all

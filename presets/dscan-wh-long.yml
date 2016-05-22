@@ -1,0 +1,10 @@
+---
+name: wh ◯
+symbol: ✥ dscan
+level: 1
+groups:
+  - common-pvp
+  - _ship
+  - _celestial-force_field
+states:
+  - hostile
