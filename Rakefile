@@ -2,7 +2,7 @@ require 'active_support/core_ext/hash'
 require 'active_support/core_ext/string'
 require 'yaml'
 
-build = 'Overview'
+build = '_build'
 
 task default: :build
 task build: [:reset_build_directory, :compile_overviews]
