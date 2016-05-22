@@ -1,6 +1,7 @@
 ---
 include:
   - _charge-scanner_probe
+  - _celestial-wormhole
   - beacons
   - bombs
   - bubbles
