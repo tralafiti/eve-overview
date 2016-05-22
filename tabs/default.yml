@@ -4,22 +4,22 @@
   overview: travel
   bracket: brackets-all
 
-- name: primary
+- name: pvp
   color: FFFF4444
   overview: hostile-minimal
   bracket: brackets-all
 
-- name: tactical
+- name: drones
   color: FF99CC00
-  overview: friendly-ships
+  overview: hostile-drones
   bracket: brackets-all
 
-- name: auxiliary
+- name: gang
   color: FFAA66CC
-  overview: extra-loot
+  overview: extra-small_gang-minimal
   bracket: brackets-all
 
-- name: disengage
+- name: gtfo
   color: FF33B5E5
   overview: extra-warpout
   bracket: brackets-all
