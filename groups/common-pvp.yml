@@ -4,5 +4,5 @@ include:
   - _celestial-sun
   - _deployable
   - gates
-  - _station
+  - dockable
   - _deployable-structures

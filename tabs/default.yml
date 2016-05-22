@@ -6,12 +6,12 @@
 
 - name: pvp
   color: FFFF4444
-  overview: hostile-minimal
+  overview: hostile-less
   bracket: brackets-all
 
 - name: gang
   color: FFAA66CC
-  overview: extra-small_gang-dock
+  overview: extra-small_gang-less
   bracket: brackets-all
 
 - name: drones
