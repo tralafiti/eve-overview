@@ -19,6 +19,16 @@
   overview: hostile-drones
   bracket: brackets-all
 
+- name: h-tackle
+  color: FFFF4444
+  overview: hostile-ships-tackle
+  bracket: brackets-all
+
+- name: loot
+  color: CCCCCCCC
+  overview: extra-loot
+  bracket: brackets-all
+
 - name: gtfo
   color: FF33B5E5
   overview: extra-warpout

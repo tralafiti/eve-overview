@@ -97,7 +97,7 @@ def format_preset_name(preset)
 end
 
 def format_tab_name(tab)
-  "<color=0x#{tab[:color]}>   #{tab[:name]}   </color>"
+  "<color=0x#{tab[:color]}>  #{tab[:name]}  </color>"
 end
 
 def merge_states(names)
