@@ -8,7 +8,7 @@ include:
   - _entity-tutorial_seekers
   - _entity-rogue_drone
   - _entity-roaming_sleepers_cruiser
-  - _entity-drifters_battleship_and_reinforcement
+  - _entity-drifters
   - _npc-mission_npc
   - _npc-pirate_npc
   - entities-asteroid_mordus_legion
