@@ -2,5 +2,7 @@
 userSettings:
   - - hideCorpTicker
     - true
+  - - applyToStructures
+    - false
   - - overviewBroadcastsToTop
     - true
