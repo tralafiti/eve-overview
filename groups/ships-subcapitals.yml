@@ -18,11 +18,11 @@ include:
   - _ship-elite_battleship
   - _ship-exhumer
   - _ship-expedition_frigate
-  - _ship-flag_cruiser
   - _ship-force_recon_ship
   - _ship-frigate
   - _ship-heavy_assault_cruiser
   - _ship-heavy_interdiction_cruiser
+  - _ship-flag_cruiser
   - _ship-industrial_command_ship
   - _ship-industrial
   - _ship-interceptor

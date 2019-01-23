@@ -5,6 +5,7 @@ level: 1
 groups:
   - common-minimal
   - _celestial-sun
+  - _deployable
   - _ship
 states:
   - all
